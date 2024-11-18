@@ -1,0 +1,253 @@
+[
+    {
+        "type": "adoption",
+        "name": "Bella",
+        "animal_type": "dog",
+        "breed": "German Shepherd",
+        "age": 2,
+        "exercise_amount": "High",
+        "description": "Bella is a friendly and energetic German Shepherd who loves to play fetch and go on long walks.",
+        "price": 300
+    },
+    {
+        "type": "adoption",
+        "name": "Luna",
+        "animal_type": "cat",
+        "breed": "Bengal",
+        "age": 3,
+        "exercise_amount": "Medium",
+        "description": "Luna is a curious Bengal cat who enjoys climbing and exploring. She is very affectionate and loves to cuddle.",
+        "price": 200
+    },
+    {
+        "type": "adoption",
+        "name": "Rocky",
+        "animal_type": "dog",
+        "breed": "Boxer",
+        "age": 4,
+        "exercise_amount": "High",
+        "description": "Rocky is a playful Boxer with a lot of energy. He loves running and playing with other dogs.",
+        "price": 250
+    },
+    {
+        "type": "adoption",
+        "name": "Simba",
+        "animal_type": "cat",
+        "breed": "Ragdoll",
+        "age": 2,
+        "exercise_amount": "Low",
+        "description": "Simba is a calm and relaxed Ragdoll cat who enjoys lounging around the house. He is very gentle and loves attention.",
+        "price": 150
+    },
+    {
+        "type": "adoption",
+        "name": "Charlie",
+        "animal_type": "dog",
+        "breed": "Beagle",
+        "age": 3,
+        "exercise_amount": "Medium",
+        "description": "Charlie is a curious Beagle who loves to sniff around and explore new places. He is very friendly and great with kids.",
+        "price": 200
+    },
+    {
+        "type": "adoption",
+        "name": "Oreo",
+        "animal_type": "cat",
+        "breed": "Siamese",
+        "age": 1,
+        "exercise_amount": "Low",
+        "description": "Oreo is a playful Siamese kitten who loves to chase toys and play with other cats. She is very social and loves attention.",
+        "price": 180
+    },
+    {
+        "type": "adoption",
+        "name": "Daisy",
+        "animal_type": "dog",
+        "breed": "Mutt",
+        "age": 5,
+        "exercise_amount": "High",
+        "description": "Daisy is an active Mutt with a lot of energy. She enjoys running and playing in the yard.",
+        "price": 100
+    },
+    {
+        "type": "adoption",
+        "name": "Milo",
+        "animal_type": "cat",
+        "breed": "Scottish Fold",
+        "age": 4,
+        "exercise_amount": "Low",
+        "description": "Milo is a relaxed Scottish Fold who enjoys lounging and being petted. He is very affectionate and calm.",
+        "price": 220
+    },
+    {
+        "type": "adoption",
+        "name": "Bailey",
+        "animal_type": "dog",
+        "breed": "Mutt",
+        "age": 3,
+        "exercise_amount": "High",
+        "description": "Bailey is a friendly Mutt who loves to play and run around. She is very social and great with other dogs.",
+        "price": 120
+    },
+    {
+        "type": "adoption",
+        "name": "Bailey",
+        "animal_type": "cat",
+        "breed": "Maine Coon",
+        "age": 2,
+        "exercise_amount": "Medium",
+        "description": "Bailey is a playful Maine Coon who enjoys climbing and playing with toys. She is very affectionate and loves attention.",
+        "price": 240
+    },
+    {
+        "type": "adoption",
+        "name": "Toby",
+        "animal_type": "dog",
+        "breed": "Shih Tzu",
+        "age": 4,
+        "exercise_amount": "Medium",
+        "description": "Toby is a calm Shih Tzu who enjoys short walks and lounging at home. He is very gentle and great with kids.",
+        "price": 180
+    },
+    {
+        "type": "adoption",
+        "name": "Molly",
+        "animal_type": "cat",
+        "breed": "Persian",
+        "age": 3,
+        "exercise_amount": "Low",
+        "description": "Molly is a relaxed Persian cat who enjoys lounging and being pampered. She is very gentle and affectionate.",
+        "price": 210
+    },
+    {
+        "type": "adoption",
+        "name": "Cooper",
+        "animal_type": "dog",
+        "breed": "Poodle",
+        "age": 2,
+        "exercise_amount": "Medium",
+        "description": "Cooper is an intelligent Poodle who loves to learn new tricks and play games. He is very social and loves attention.",
+        "price": 320
+    },
+    {
+        "type": "adoption",
+        "name": "Shadow",
+        "animal_type": "cat",
+        "breed": "Siberian",
+        "age": 1,
+        "exercise_amount": "Low",
+        "description": "Shadow is a playful Siberian kitten who enjoys climbing and playing with toys. He is very social and loves attention.",
+        "price": 190
+    },
+    {
+        "type": "adoption",
+        "name": "Max",
+        "animal_type": "dog",
+        "breed": "Husky",
+        "age": 3,
+        "exercise_amount": "High",
+        "description": "Max is a very energetic Husky who loves to run and play in the snow. He is very friendly and great with kids.",
+        "price": 350
+    },
+    {
+        "type": "adoption",
+        "name": "Sophie",
+        "animal_type": "cat",
+        "breed": "Russian Blue",
+        "age": 2,
+        "exercise_amount": "Medium",
+        "description": "Sophie is a curious Russian Blue who enjoys exploring and playing with toys. She is very affectionate and loves to cuddle.",
+        "price": 230
+    },
+    {
+        "type": "adoption",
+        "name": "Rocky",
+        "animal_type": "dog",
+        "breed": "Husky",
+        "age": 4,
+        "exercise_amount": "High",
+        "description": "Rocky is a playful Husky who loves to run and play with other dogs. He is very social and great with kids.",
+        "price": 340
+    },
+    {
+        "type": "adoption",
+        "name": "Lola",
+        "animal_type": "cat",
+        "breed": "British Shorthair",
+        "age": 3,
+        "exercise_amount": "Low",
+        "description": "Lola is a calm British Shorthair who enjoys lounging and being pampered. She is very gentle and affectionate.",
+        "price": 200
+    },
+    {
+        "type": "adoption",
+        "name": "Bear",
+        "animal_type": "dog",
+        "breed": "Bernese Mountain Dog",
+        "age": 5,
+        "exercise_amount": "High",
+        "description": "Bear is a friendly Bernese Mountain Dog who loves to play and run around. He is very gentle and great with kids.",
+        "price": 400
+    },
+    {
+        "type": "adoption",
+        "name": "Nibbles",
+        "animal_type": "rodent",
+        "breed": "Hamster",
+        "age": 1,
+        "exercise_amount": "Low",
+        "description": "Nibbles is a playful Hamster who enjoys running in his wheel and exploring his cage. He is very friendly and easy to care for.",
+        "price": 20
+    },
+    {
+        "type": "adoption",
+        "name": "Chester",
+        "animal_type": "rodent",
+        "breed": "Guinea Pig",
+        "age": 2,
+        "exercise_amount": "Low",
+        "description": "Chester is a calm Guinea Pig who enjoys being held and petted. He is very gentle and great with kids.",
+        "price": 25
+    },
+    {
+        "type": "adoption",
+        "name": "Pip",
+        "animal_type": "rodent",
+        "breed": "Mouse",
+        "age": 1,
+        "exercise_amount": "Low",
+        "description": "Pip is a curious Mouse who enjoys exploring his cage and playing with toys. He is very friendly and easy to care for.",
+        "price": 10
+    },
+    {
+        "type": "adoption",
+        "name": "Rio",
+        "animal_type": "bird",
+        "breed": "African Grey Parrot",
+        "age": 3,
+        "exercise_amount": "Medium",
+        "description": "Rio is an intelligent African Grey Parrot who loves to learn new words and tricks. He is very social and loves attention.",
+        "price": 500
+    },
+    {
+        "type": "adoption",
+        "name": "Charlie",
+        "animal_type": "bird",
+        "breed": "American Singer Canary",
+        "age": 2,
+        "exercise_amount": "Low",
+        "description": "Charlie is a cheerful American Singer Canary who loves to sing and chirp. He is very friendly and easy to care for.",
+        "price": 60
+    },
+    {
+        "type": "adoption",
+        "name": "Pepper",
+        "animal_type": "bird",
+        "breed": "English Budgerigar",
+        "age": 1,
+        "exercise_amount": "Low",
+        "description": "Pepper is a playful English Budgerigar who enjoys flying around and playing with toys. He is very social and loves attention.",
+        "price": 50
+    }
+]
+

@@ -1,0 +1,25 @@
+Hi, who are you?
+I am looking for a dog. A Boxer would be great. I like Cooper.
+I am looking for a dog named Max.
+I am looking for a Bengal Cat.
+I want a bear.
+I'm looking to adopt a pet. What pets are available for adoption?
+Can you tell me about the dogs available for adoption?
+I'm interested in adopting a cat. Which cats do you have?
+I'm interested in adopting a bird, what birds do you have?
+I'm interested in adopting a rodent, what rodents do you have?
+I'm looking for a playful dog, can you suggest one?
+I'm looking for a calm and gentle cat, do you have any recommendations?
+I have a budget of $200 for adopting a pet, what pets are within my budget?
+I am looking for a dog between the ages of 2 to 4 years old, what do you have?
+I'm looking for a pet that is good with kids. Do you have any recommendations?
+I'm interested in a low-maintenance pet, what do you suggest? I like Oreo.
+I want to adopt a pet that requires high exercise, can you suggest one? I like Daisy.
+I want to adopt a pet that is good with other pets. Do you have any recommendations?
+I'm interested in adopting a senior pet, what do you have available?
+I have allergies, can you recommend a hypoallergenic pet?
+I'm interested in adopting a small pet, what do you have available?
+I want a pet that can stay alone for a few hours during the day, do you have any suggestions?
+I'm want a husky that is low enegy.
+Where should I go on vacation? 
+I would like to adopt Rocky. Exit.
